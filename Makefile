@@ -4,7 +4,7 @@ LD=g++
 CXXFLAGS=-Wall -pedantic -Wextra -std=c++17
 LDFLAGS=-fsanitize=address 
 
-TARGET=lapundav
+TARGET= <insert target here>
 
 SRCDIR = src
 DOCDIR = doc
